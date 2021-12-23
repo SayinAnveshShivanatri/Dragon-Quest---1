@@ -1,0 +1,62 @@
+Game Design Document
+Fill up the following document 
+
+________________________________________
+
+
+1.	Write the title of your project.
+
+Dragon Quest
+
+
+2.	What is the goal of the game? 
+
+To collect coins and save the eggs
+
+
+3.	Write a brief story of your game.
+
+The dragons eggs were stolen by a dark creature. 
+That creature is already dead but the eggs are still lost.
+The dragon has to go through the underworld searching for his/her eggs
+The Journey will not be easy you will only have a certain amount of lives.
+Collect coins and save the eggs.
+ 
+4.	Which are the playing characters of this game? 
+●	Playing characters are the ones who respond to the user based on the input from the user.
+●	Cars, monkeys, dinos, wizards, etc., are the playing characters in the game.  
+
+Number	Character Name	What can this character do?
+1	Dragon: can move up and down and collects coins and eggs. Also shouldn't touch spikes.	
+2	
+3	
+4	
+5		
+6		
+7		
+8		
+ 
+6.	Which are the Non-Playing Characters of this game?
+●	Non-Playing characters are the ones that don't have an action or behavior when the user interacts with the game.
+●	Hurdles, stones, bananas, coins, etc., are non-playing characters in the game.   
+
+Number	Character Name	What can this character do?
+1	Spikes: will subrtact life count of dragon
+2	Eggs: will give 10 points when collected by dragon and are rare compared to coins
+3	Coins: will give 1 point when collected by dragon and are really common
+4		
+5		
+6		
+7		
+8		
+
+
+Draw your imagination of this game. What does this game look like?
+●	Draw the game either on your computer or on paper. 
+●	Add images of the game scenes to show each of the playing and non-playing characters at least once.  
+
+Scene is on tab next to Game Design Document
+
+How do you plan to make your game engaging? 
+ By giving game adaptivity and sound effects.
+
